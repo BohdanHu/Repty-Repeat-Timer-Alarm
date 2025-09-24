@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://bohdanhu.github.io/Repty-Repeat-Timer-Alarm/sitemap.xml
 
